@@ -1,7 +1,11 @@
-# Welcome to streamlit
+# E-Commerce Public Dataset :sparkles:
+## Setup environment
+```
+python (installer from https://www.python.org/downloads/windows/)
+pip install pandas matplotlib seaborn jupyter streamlit
+```
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
-
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
-
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+## Run steamlit app
+```
+streamlit run Dashboard_Ecommerce_Sutiyono.py
+```
